@@ -1,0 +1,7 @@
+.back-image {
+  background-image: url('backflesh2.jpg');
+  height: 500px;
+  background-position: center; 
+  background-size: cover; 
+  padding: 20px;
+}
